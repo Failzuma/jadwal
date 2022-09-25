@@ -1,0 +1,31 @@
+.header {
+  margin: 0 auto;
+  padding: 12px 0;
+  padding-left: 1em;
+}
+
+.header h1,
+.header h2,
+.header h3 {
+  padding: 4px;
+}
+
+.horizontalRuler {
+  width: 95%;
+  display: flex;
+}
+
+.listItem {
+  display: flex;
+}
+
+.jadwalList {
+  padding: 0em;
+  padding-left: 1em;
+  display: flex;
+  justify-content: center;
+}
+
+.mainContent {
+  padding-bottom: 2em;
+}
