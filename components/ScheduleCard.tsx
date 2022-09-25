@@ -134,7 +134,13 @@ export function ScheduleCard({
                         <td>{perDay.lessons[allocation.JAM! - 1] ?? ""}</td>
                       </>
                     ) : (
-                      <td colSpan={2} style={{ textAlign: "center" }}>
+                      <td
+                        colSpan={2}
+                        style={{
+                          textAlign: "center",
+                          backgroundColor: "limegreen",
+                        }}
+                      >
                         ISTIRAHAT
                       </td>
                     )}
