@@ -23,7 +23,7 @@ const GithubAndToggler = ({
     <article className={`card ${styles.CardStyle}`}>
       <header>
         <a
-          href="https://github.com/reacto11mecha/jadwal-ssg"
+          href="https://github.com/Failzuma/jadwal"
           target="_blank"
           rel="noopener noreferrer"
         >

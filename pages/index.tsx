@@ -33,16 +33,16 @@ const Home = ({
 }: InferGetStaticPropsType<typeof getStaticProps>) => (
   <div>
     <Head>
-      <title>Daftar Jadwal Pelajaran SMA Negeri 12 Kota Bekasi</title>
+      <title>Daftar Jadwal Pelajaran Politeknik Negeri Pontianak</title>
       <meta
         name="description"
-        content="Daftar jadwal pelajaran SMAN 12 Bekasi"
+        content="Daftar Jadwal Pelajaran Politeknik Negeri Pontianak"
       />
     </Head>
     <header className={styles.header}>
       <h1>Daftar Jadwal Pelajaran</h1>
       <h2>Tahun Ajaran 2022/2023</h2>
-      <h3>SMA Negeri 12 Kota Bekasi</h3>
+      <h3>Politeknik Negeri Pontianak</h3>
     </header>
     <hr className={styles.horizontalRuler} />
     <main className={styles.mainContent}>
