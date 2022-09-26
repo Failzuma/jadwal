@@ -1,6 +1,6 @@
 [
   {
-    "className": "1-A ABG",
+    "className": "1-A D4 ABG",
     "schedule": [
       {
         "day": 1,
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "className": "1-B ABG",
+    "className": "1-B D4 ABG",
     "schedule": [
       {
         "day": 1,
@@ -200,7 +200,7 @@
     ]
   },
   {
-    "className": "1-C ABG",
+    "className": "1-C D4 ABG",
     "schedule": [
       {
         "day": 1,
@@ -293,6 +293,406 @@
           "ESBEN - WORKSHOP",
           "ESBEN - WORKSHOP",
           "ESBEN - WORKSHOP",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
+  },
+  {
+    "className": "1-A D3 ARS",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "INGGRIS1 - ONLINE",
+          "INGGRIS1 - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "INDO - ONLINE",
+          "INDO - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "GAMTEK - STUDIO 3",
+          "GAMTEK - STUDIO 3",
+          "GAMTEK - STUDIO 3",
+          "GAMTEK - STUDIO 3",
+          "GAMTEK - STUDIO 3",
+          "GAMTEK - STUDIO 3",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
+  },
+  {
+    "className": "1-B D3 ARS",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "APKOM1 - LABKOM 2",
+          "APKOM1 - LABKOM 2",
+          "APKOM1 - LABKOM 2",
+          "APKOM1 - LABKOM 2",
+          "APKOM1 - LABKOM 2",
+          "APKOM1 - LABKOM 2",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "INDO - ONLINE",
+          "INDO - ONLINE",
+          "INGGRIS1 - ONLINE",
+          "INGGRIS1 - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
+  },
+  {
+    "className": "1-C D3 ARS",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "KBG1 - STUDIO 1",
+          "JAMKOS",
+          "JAMKOS",
+          "PA - LABKOM 2",
+          "PA - LABKOM 2",
+          "PA - LABKOM 2",
+          "PA - LABKOM 2",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "INGGRIS1 - ONLINE",
+          "INGGRIS1 - ONLINE",
+          "INDO - ONLINE",
+          "INDO - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
+  },
+  {
+    "className": "1-D D3 ARS",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "APKOM1 - LABKOM 4",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "GAMTEK - STUDIO 2",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "MTK - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "INGGRIS1 - ONLINE",
+          "INGGRIS1 - ONLINE",
+          "INDO - ONLINE",
+          "INDO - ONLINE",
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "PA - TEORI 1",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "ESBEN - WORKSHOP",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "KBG1 - STUDIO 3",
+          "KBG1 - STUDIO 3",
+          "KBG1 - STUDIO 3",
+          "KBG1 - STUDIO 3",
+          "KBG1 - STUDIO 3",
+          "KBG1 - STUDIO 3",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "BAHAN - ONLINE",
+          "JAMKOS",
+          "JAMKOS",
           "JAMKOS",
           "JAMKOS"
         ]
