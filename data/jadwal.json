@@ -698,5 +698,505 @@
         ]
       }
     ]
+  },
+  {
+    "className": "1-A D3 INF",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "PEMROGRAMAN TERSTRUKTUR",
+          "PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "PAKET PROGRAM TERAPAN ",
+          "PAKET PROGRAM TERAPAN ",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "MTK 1",
+          "MTK 1",
+          "MTK 1",
+          "PANCASILA ",
+          "PANCASILA ",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
+  },
+  {
+    "className": "1-B D3 INF",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "PAKET PROGRAM TERAPAN ",
+          "PAKET PROGRAM TERAPAN ",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "PEMROGRAMAN TERSTRUKTUR",
+          "PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "PANCASILA ",
+          "PANCASILA ",
+          "JAMKOS",
+          "MTK 1",
+          "MTK 1",
+          "MTK 1",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
+  },
+  {
+    "className": "1-C D3 INF",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "PEMROGRAMAN TERSTRUKTUR",
+          "PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "PAKET PROGRAM TERAPAN ",
+          "PAKET PROGRAM TERAPAN ",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "MTK 1",
+          "MTK 1",
+          "MTK 1",
+          "PANCASILA ",
+          "PANCASILA ",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
+  },
+  {
+    "className": "1-D D3 INF",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "PAKET PROGRAM TERAPAN ",
+          "PAKET PROGRAM TERAPAN ",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "PEMROGRAMAN TERSTRUKTUR",
+          "PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "MTK 1",
+          "MTK 1",
+          "MTK 1",
+          "PANCASILA ",
+          "PANCASILA ",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
+  },
+  {
+    "className": "1-E D3 INF",
+    "schedule": [
+      {
+        "day": 1,
+        "lessons": [
+          "PEMROGRAMAN TERSTRUKTUR",
+          "PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "P. PEMROGRAMAN TERSTRUKTUR",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 2,
+        "lessons": [
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "MTK 1",
+          "MTK 1",
+          "MTK 1",
+          "PANCASILA ",
+          "PANCASILA ",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 3,
+        "lessons": [
+          "PAKET PROGRAM TERAPAN ",
+          "PAKET PROGRAM TERAPAN ",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "P. PAKET PROGRAM TERAPAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 4,
+        "lessons": [
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "ALGORITMA PEMROGRAMAN",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      },
+      {
+        "day": 5,
+        "lessons": [
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "PENGANTAR TEKNOLOGI INFORMASI",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS",
+          "JAMKOS"
+        ]
+      }
+    ]
   }
 ]
