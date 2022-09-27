@@ -144,7 +144,7 @@ export function ScheduleCard({
                         ISTIRAHAT
                       </td>
                     )}
-                    <td>{allocation.WAKTU.join(" - ")}</td>
+                    <td>{allocation.WAKTU.join("-")}</td>
                   </tr>
                 ))}
               </tbody>
