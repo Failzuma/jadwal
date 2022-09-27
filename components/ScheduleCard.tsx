@@ -122,7 +122,7 @@ export function ScheduleCard({
                 <tr>
                   <th>#</th>
                   <th>Mapel</th>
-                  <th>Waktu</th>
+                  <th style={{ textAlign: "center" }}>Waktu</th>
                 </tr>
               </thead>
               <tbody>
@@ -144,7 +144,9 @@ export function ScheduleCard({
                         ISTIRAHAT
                       </td>
                     )}
-                    <td>{allocation.WAKTU.join("-")}</td>
+                    <td style={{ textAlign: "center" }}>
+                      {allocation.WAKTU.join("-")}
+                    </td>
                   </tr>
                 ))}
               </tbody>
