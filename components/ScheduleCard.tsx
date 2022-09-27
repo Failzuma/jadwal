@@ -121,7 +121,7 @@ export function ScheduleCard({
               <thead>
                 <tr>
                   <th>#</th>
-                  <th>Mapel</th>
+                  <th style={{ textAlign: "center" }}>Mapel</th>
                   <th style={{ textAlign: "center" }}>Waktu</th>
                 </tr>
               </thead>
