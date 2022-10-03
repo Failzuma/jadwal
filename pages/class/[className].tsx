@@ -83,9 +83,7 @@ const Jadwal = ({
         </Head>
         <div>
           <a href="https://jadwal-polnep.vercel.app/">
-            <h1 style={{ textDecoration: "none" }}>
-              KEMBALI KE INDEX LIST JADWAL
-            </h1>
+            <h1 style={{ textDecoration: "none" }}>KEMBALI KE INDEX</h1>
           </a>
           <h1 className={styles.center}>
             Jadwal Pelajaran Kelas{" "}
