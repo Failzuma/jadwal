@@ -27,7 +27,7 @@ const GithubAndToggler = ({
           target="_blank"
           rel="noopener noreferrer"
         >
-          <BsGithub />
+          <BsGithub /> <span style={{ marginLeft: 5 }}>CONTRIBUTE WITH ME</span>
         </a>
       </header>
     </article>
