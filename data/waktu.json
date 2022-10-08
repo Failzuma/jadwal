@@ -569,14 +569,14 @@
           ]
         },
         {
-          "JAM": 6,
+          "isBreak": true,
           "WAKTU": [
             "11.30",
             "12.20"
           ]
         },
         {
-          "isBreak": true,
+          "JAM": 6,
           "WAKTU": [
             "12.20",
             "13.00"
