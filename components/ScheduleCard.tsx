@@ -131,7 +131,9 @@ export function ScheduleCard({
                     {!allocation.isBreak ? (
                       <>
                         <td>{allocation.JAM}</td>
-                        <td>{perDay.lessons[allocation.JAM! - 1] ?? ""}</td>
+                        <td style={{ textAlign: "center" }}>
+                          {perDay.lessons[allocation.JAM! - 1] ?? ""}
+                        </td>
                       </>
                     ) : (
                       <td
