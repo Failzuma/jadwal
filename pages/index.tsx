@@ -33,7 +33,7 @@ const Home = ({
 }: InferGetStaticPropsType<typeof getStaticProps>) => (
   <div>
     <Head>
-      <title>Daftar Jadwal Pelajaran Politeknik Negeri Pontianak</title>
+      <title>Jadwal Pelajaran Politeknik Negeri Pontianak</title>
       <meta
         name="description"
         content="Daftar Jadwal Pelajaran Politeknik Negeri Pontianak"
