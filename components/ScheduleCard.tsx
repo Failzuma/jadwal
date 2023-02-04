@@ -146,8 +146,13 @@ export function ScheduleCard({
                         ISTIRAHAT
                       </td>
                     )}
-                    <td style={{ textAlign: "center" }}>
-                      {allocation.WAKTU.join("-")}
+                    <td
+                      style={{
+                        textAlign: "center",
+                        backgroundColor: allocation.isBreak ? "limegreen" : "",
+                      }}
+                    >
+                      {allocation.WAKTU?.join("-")}
                     </td>
                   </tr>
                 ))}

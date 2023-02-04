@@ -7,14 +7,14 @@ export default function Offline() {
   return (
     <>
       <Head>
-        <title>Kamu offline</title>
+        <title>Kamu sedang offline</title>
       </Head>
       <div className={styles.container}>
         <div>
           <article className={`card ${styles.card}`}>
             <footer>
               <div>
-                <h3>Kamu Sedang Offline</h3>
+                <h3>Kamu sedang Offline</h3>
 
                 <p>Coba kembali online dan kunjungi lagi website ini.</p>
               </div>
